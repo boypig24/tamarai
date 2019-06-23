@@ -11,7 +11,7 @@ setuptools.setup(
     description="a small package made for learning how to make a package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/boypig24/tamarai",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
